@@ -3,9 +3,6 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.lyrics-gen.com)](http://www.lyrics-gen.com)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.lyrics-gen.com%2F)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.lyrics-gen.com%2F)
 
-
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.lyrics-gen.com%2F)
-
 AI to generate heavy metal lyrics.
 
 ## Post
